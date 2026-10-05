@@ -32,4 +32,4 @@ O arquivo `placeholder.svg` é usado quando uma foto ainda não foi adicionada.
 Abra `index.html` com Live Server no VS Code. Para testar pelo celular, computador e celular devem estar na mesma rede Wi-Fi; abra no celular o endereço local do computador, por exemplo `http://192.168.1.10:5500`.
 
 ## WhatsApp
-O número atualmente configurado é `55339880160`, conforme o briefing. Confirme esse número antes da publicação.
+O número atualmente configurado é `5533988580160`, conforme o briefing. Confirme esse número antes da publicação.
