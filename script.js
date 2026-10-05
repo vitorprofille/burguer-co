@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "55339880160";
+const WHATSAPP_NUMBER = "5533988580160";
 
 const products = [
   {category:"entradas",name:"Batata Rústica (300g)",description:"Batatas artesanais temperadas com páprica e alecrim. Acompanha maionese da casa.",price:22,image:"images/batata-rustica.jpg"},
